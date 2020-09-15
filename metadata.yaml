@@ -1,5 +1,8 @@
 _repo: Porvari-vakea-matkoilla-eli-Buchholz-herrasvaen-matka-kertomukset_63186
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stinde, Julius
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Julius_Stinde
     - https://de.wikipedia.org/wiki/Julius_Stinde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63186#Porvari-vakea-matkoilla-eli-Buchholz-herrasvaen-matka-kertomukset
 gutenberg_issued: '2020-09-12'
 gutenberg_type: Text
 identifiers:
